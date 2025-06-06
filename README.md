@@ -49,25 +49,3 @@ O objetivo do presente repositório não é criar um arquivo estatico, mas a par
 
 
 
-
-
-
-
-
-## 📌 Tabela de Conteúdos  
-[...]  
-
-## ⚙️ Instalação  
-[...]  
-
-## 🎯 Uso  
-[...]  
-
-## 🤝 Contribuição  
-[...]  
-
-## 📜 Licença  
-[...]  
-
-
-
